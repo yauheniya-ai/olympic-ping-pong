@@ -20,6 +20,7 @@ The environment is designed around official Olympic/ITTF regulations:
 - **Table Height**: 0.76m (2.5ft) from ground
 - **Net Height**: 15.25cm (6in)
 - **Ball Diameter**: 40mm
+- **Racket (paddle)**: 17cm (6.7in) × 15cm (5.9in)
 - **Scoring**: Rally point system (first to 11 points, win by 2)
 - **Service Rules**: Ball must bounce once on each side
 
