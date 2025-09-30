@@ -7,7 +7,7 @@ This project aims to create a high-fidelity ping pong simulation environment tha
 This repository contains the initial pygame prototype used to validate game mechanics, physics, and visual design before moving to the production C/C++ implementation.
 
 <p align="center">
-  <img src="Screenshot.png" alt="Pong Training" width="350" />
+  <img src="Screenshot.png" alt="Pong Training" width="500" />
   <br><em>Fig. 1: Olympic Ping Pong RL Environment Prototype<br>Built with Pygame</em>
 </p>
 
